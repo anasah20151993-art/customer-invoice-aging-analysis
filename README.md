@@ -8,7 +8,8 @@ Excel-based Customer Invoice Aging Analysis to track outstanding receivables, id
 
 <Br> [FDP Formate.pdf](https://github.com/user-attachments/files/31376385/FDP.Formate.pdf)
 
-Screenshots/
+
+<Br> Screenshots/
   <img width="1082" height="781" alt="Debit aging report in EXECl" src="https://github.com/user-attachments/assets/18e7fd31-d42f-4725-b6aa-ec7d04c27bc7" />
   <img width="1507" height="230" alt="Aging Summary" src="https://github.com/user-attachments/assets/2b9a0d0c-ed29-4fda-a76f-5e08625f8ef4" />
 
@@ -94,12 +95,11 @@ Customer credit monitoring
 
 Accounts receivable management
 
+## 📌 Portfolio
+
+This project is part of my portfolio, demonstrating practical skills in Excel, financial analysis, reporting, and business data analysis.
+
 ## 👤 Author
 
 Anas Ahmad
 
-Aspiring Business, Operations, and Data Analyst with experience and interest in accounting, Excel, ERP systems, financial analysis, and business operations.
-
-📌 Portfolio
-
-This project is part of my portfolio, demonstrating practical skills in Excel, financial analysis, reporting, and business data analysis.
