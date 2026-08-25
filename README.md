@@ -1,5 +1,5 @@
 # Customer Invoice Aging Analysis
-Excel-based Customer Invoice Aging Analysis for tracking outstanding receivables, identifying overdue invoices, and supporting collection and cash flow decisions.
+Excel-based Customer Invoice Aging Analysis to track outstanding receivables, identify overdue invoices, and support collection and cash flow decisions.
 
 [README.md](https://github.com/user-attachments/files/31376499/README.md)
 <Br> [customer-invoice-aging-analysis.Xlsx](https://github.com/user-attachments/files/31376959/customer-invoice-aging-analysis.Xlsx)
@@ -11,7 +11,7 @@ Screenshots/
 
 ## 📊 Project Overview
 
-This project is an Excel-based Customer Invoice Aging Analysis designed to monitor outstanding customer balances and identify overdue invoices.
+This project is an Excel-based Customer Invoice Aging Analysis that monitors outstanding customer balances and identifies overdue invoices.
 
 The report organizes customer invoice balances into aging categories based on the number of days outstanding:
 
